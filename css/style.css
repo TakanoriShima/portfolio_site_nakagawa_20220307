@@ -68,3 +68,10 @@ p {
 .blue {
     color: #005dcf;
 }
+
+/*スマホ　縦からは */
+@media screen and (max-width: 480px){
+    .boxA {
+        font-size: 30px;
+    }   
+}
